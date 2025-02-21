@@ -1,0 +1,18 @@
+[   
+
+    {
+        "heading" : "5 popular Rust web frameworks—which one is right for you?",
+        "text" :"From the simplicity of Poem to the full-featured speed of Actix, there's a Rust web framework for most every user and need",
+        "img": "/image 54 (10).png "
+    },
+    {
+        "img":"/image 55 (3).png",
+        "heading":"JAVA VS PHP: WHICH LANGUAGE TO CHOOSE?",
+        "text": "Choosing a programming language can be a major hurdle due to people lacking the necessary information to make the right decision."
+    },
+    {
+        "heading" : "Dive into the world of an iOS Developer – career, salary, and skills",
+        "text" : "When it comes to developing iOS applications, there are two main programming languages that professionals use: Objective-C and Swift. Objective-C is a C language that has additional object-oriented design. ",
+        "img" :"/image 55 (5).png"
+    }
+]
