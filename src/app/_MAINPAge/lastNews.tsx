@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { Poppins, Source_Sans_3 } from "next/font/google";
 import Image from "next/image";
 
-const source3 = Source_Sans_3({
+export const source3 = Source_Sans_3({
     subsets:["latin"],
     weight:"400"
 });

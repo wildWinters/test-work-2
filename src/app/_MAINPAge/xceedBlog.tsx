@@ -10,7 +10,7 @@ const sans3 = Source_Sans_3({
   weight: "400",
 });
 
-const poppinsFont = Poppins({
+export const poppinsFont = Poppins({
   subsets: ["latin"],
   weight: "700",
 });
@@ -37,7 +37,7 @@ export default function AvoidMistakes() {
 
   return (
     <>
-      <div className="max-w-[80vw] h-[450px] m-[auto] flex justify-around items-center">
+      <div className="max-w-[90vw] relative h-[450px] m-[auto] flex justify-around items-center">
         <div className={`flex flex-col justify-between h-[386px] max-w-[548px] ${popins400.className}`}>
           <p className="text-[#616161] text-[16px]">Xceed Blog</p>
           <h1 className={`text-[50px] font-[700] text-[black] ${poppinsFont.className}`}>
@@ -64,7 +64,6 @@ export default function AvoidMistakes() {
         
         <Image src="/image 54 (9).png" alt="RobotTouchButton" width={592} height={386} />
       </div>
-
     </>
   );
 }
